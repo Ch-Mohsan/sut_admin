@@ -1,0 +1,14 @@
+
+body {
+  background: #f5f6fa;
+  font-family: 'Roboto', 'Open Sans', Arial, sans-serif;
+}
+.card {
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.08);
+}
+.navbar {
+  background: #1976d2;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.15);
+}
